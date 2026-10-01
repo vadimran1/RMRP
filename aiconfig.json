@@ -1,5 +1,5 @@
 {
- "enabled": true,
+ "enabled": false,
  "provider": "proxy",
  "proxy_url": "https://pamyatka-proxy.vercel.app",
  "model": "",
@@ -16,7 +16,12 @@
    "provider": "odirouter"
   }
  ],
- "require_login": true,
- "promo_hours": 48,
- "promo_first_minutes": 3
+ "require_login": false,
+ "promo_hours": 0,
+ "promo_first_minutes": 3,
+ "closed": {
+  "title": "Проект закрыт",
+  "text": "Памятка RMRP больше не развивается. Сервер, аккаунты, подписка и нейросети отключены. Спасибо всем, кто пользовался!",
+  "offline": true
+ }
 }

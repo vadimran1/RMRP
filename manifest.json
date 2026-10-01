@@ -1,7 +1,7 @@
 {
-  "version": 23,
-  "date": "2026-09-30",
-  "notes": "Плашка поверх игры: голосовой вопрос по Ctrl+Alt+V",
+  "version": 24,
+  "date": "2026-10-01",
+  "notes": "5.5: проект закрыт — экран закрытия, нейросети, вход и сервер отключены, законы работают без сети",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "6f0367e75b9094c7bdc84aa6e73154571fba6b6d30b37ad86c61b455b3e1f161",
-      "size": 19878
+      "sha256": "6f6e311e19ec8fb3fa2a404dcde37bdc2542a2a44b1567d203f05f49c0bf5ce1",
+      "size": 20967
     },
     {
       "name": "aiconfig.json",
-      "sha256": "9803f816b824f04bbc898e60e57ec96a580665305af0d5f7cd6f73ff644591e5",
-      "size": 450
+      "sha256": "62a47dd32d6ed962e3dd98cca345fa9a7ec127c99e16e201fc3cccf7881da8a7",
+      "size": 753
     },
     {
       "name": "legal_items.png",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "5.4",
+    "version": "5.5",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "b33a73e6604f8f155d61eb899bcd05201cbf0fa1d3073c31f7ed9e7f949e04e2",
-    "size": 42897976,
-    "notes": "Плашка поверх игры: голосовой вопрос по Ctrl+Alt+V"
+    "sha256": "6ad42ea981a5c0daf82e79fc15176cf7b8312b96b36268201d0fc5c692ae1629",
+    "size": 42934387,
+    "notes": "5.5: проект закрыт — экран закрытия, нейросети, вход и сервер отключены, законы работают без сети"
   }
 }
