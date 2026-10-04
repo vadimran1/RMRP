@@ -1,7 +1,7 @@
 {
-  "version": 27,
+  "version": 28,
   "date": "2026-10-04",
-  "notes": "5.7: оплата через Platega, нейросети по подписке, обязательный вход",
+  "notes": "Журнал изменений 5.7: оплата картой",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "639112394880d7c130fd0638c583085923cbad5996e1702ed17311a3c67f4fde",
-      "size": 22563
+      "sha256": "2a046eb34a2f179c5c2949e8cb958fb1247d0f7bab6cea0d555cfaa541eb8e41",
+      "size": 22609
     },
     {
       "name": "aiconfig.json",
