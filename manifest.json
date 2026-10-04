@@ -1,7 +1,7 @@
 {
-  "version": 28,
+  "version": 29,
   "date": "2026-10-04",
-  "notes": "Журнал изменений 5.7: оплата картой",
+  "notes": "5.8: плашка — нейросеть сверху с подпиской",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "2a046eb34a2f179c5c2949e8cb958fb1247d0f7bab6cea0d555cfaa541eb8e41",
-      "size": 22609
+      "sha256": "d6c645d2c884f27e5c73942507e87accb45295d09d128554424d1dca77bba529",
+      "size": 18696
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "5.7",
+    "version": "5.8",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "5f4d4e105921a100b245d5f08a490b4115e5e1f8292825c6268432f90ed68d6c",
-    "size": 42985628,
-    "notes": "5.7: оплата через Platega, нейросети по подписке, обязательный вход"
+    "sha256": "9cb9632e638be58c917630d702d40f885050e9c098dfb4dcc4ae2f488fe563bf",
+    "size": 42990067,
+    "notes": "5.8: плашка — нейросеть сверху с подпиской"
   }
 }
