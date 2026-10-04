@@ -1,7 +1,7 @@
 {
-  "version": 25,
-  "date": "2026-10-01",
-  "notes": "5.6: исправлено зависание на заставке в 5.5",
+  "version": 26,
+  "date": "2026-10-04",
+  "notes": "Проект снова открыт: вход и нейросети работают",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "460311e5a3d748c855c2fc67f4ebc812810c18ae92424ed495942ab580fb062b",
-      "size": 21368
+      "sha256": "99b6338606413840336374fc2cf553ef7156a45c421af5c27c5f242d4a7e24a3",
+      "size": 21741
     },
     {
       "name": "aiconfig.json",
-      "sha256": "92eab174f092ba41900f8fb0ac51c46a6e15c5262f9cb244b76ff2f01975c9a6",
-      "size": 761
+      "sha256": "4e7c44e20f3990c3c579f45f21589d4a68b6fe6dd4b2197b36261754ba1aa1d3",
+      "size": 449
     },
     {
       "name": "legal_items.png",
