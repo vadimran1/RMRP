@@ -17,6 +17,6 @@
   }
  ],
  "require_login": true,
- "promo_hours": 0,
+ "promo_hours": 48,
  "promo_first_minutes": 3
 }
