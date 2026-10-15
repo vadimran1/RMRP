@@ -1,0 +1,142 @@
+{
+ "_о_файле": "Проекты и сервера. Каждому серверу — своя законка (db). ready ставит publish.py: есть файл базы — сервер доступен.",
+ "projects": [
+  {
+   "id": "rmrp",
+   "name": "RMRP",
+   "full": "RMRP — Криминальная Москва",
+   "prompt": "RMRP (ролевой сервер по мотивам России)",
+   "servers": [
+    {
+     "id": "moscow",
+     "name": "Криминальная Москва",
+     "db": "zakonka.json",
+     "guides": true,
+     "ready": true
+    }
+   ]
+  },
+  {
+   "id": "majestic",
+   "name": "Majestic RP",
+   "full": "Majestic Role Play — GTA 5",
+   "prompt": "Majestic RP (GTA 5, сервер {server})",
+   "servers": [
+    {
+     "id": "new-york",
+     "name": "New York",
+     "db": "db/majestic-new-york.json",
+     "ready": false
+    },
+    {
+     "id": "detroit",
+     "name": "Detroit",
+     "db": "db/majestic-detroit.json",
+     "ready": false
+    },
+    {
+     "id": "chicago",
+     "name": "Chicago",
+     "db": "db/majestic-chicago.json",
+     "ready": false
+    },
+    {
+     "id": "san-francisco",
+     "name": "San Francisco",
+     "db": "db/majestic-san-francisco.json",
+     "ready": false
+    },
+    {
+     "id": "atlanta",
+     "name": "Atlanta",
+     "db": "db/majestic-atlanta.json",
+     "ready": false
+    },
+    {
+     "id": "san-diego",
+     "name": "San Diego",
+     "db": "db/majestic-san-diego.json",
+     "ready": false
+    },
+    {
+     "id": "los-angeles",
+     "name": "Los Angeles",
+     "db": "db/majestic-los-angeles.json",
+     "ready": false
+    },
+    {
+     "id": "miami",
+     "name": "Miami",
+     "db": "db/majestic-miami.json",
+     "ready": true
+    },
+    {
+     "id": "las-vegas",
+     "name": "Las Vegas",
+     "db": "db/majestic-las-vegas.json",
+     "ready": false
+    },
+    {
+     "id": "washington",
+     "name": "Washington",
+     "db": "db/majestic-washington.json",
+     "ready": false
+    },
+    {
+     "id": "dallas",
+     "name": "Dallas",
+     "db": "db/majestic-dallas.json",
+     "ready": false
+    },
+    {
+     "id": "boston",
+     "name": "Boston",
+     "db": "db/majestic-boston.json",
+     "ready": false
+    },
+    {
+     "id": "houston",
+     "name": "Houston",
+     "db": "db/majestic-houston.json",
+     "ready": false
+    },
+    {
+     "id": "seattle",
+     "name": "Seattle",
+     "db": "db/majestic-seattle.json",
+     "ready": false
+    },
+    {
+     "id": "phoenix",
+     "name": "Phoenix",
+     "db": "db/majestic-phoenix.json",
+     "ready": false
+    },
+    {
+     "id": "denver",
+     "name": "Denver",
+     "db": "db/majestic-denver.json",
+     "ready": false
+    },
+    {
+     "id": "portland",
+     "name": "Portland",
+     "db": "db/majestic-portland.json",
+     "ready": false
+    },
+    {
+     "id": "orlando",
+     "name": "Orlando",
+     "db": "db/majestic-orlando.json",
+     "ready": false
+    },
+    {
+     "id": "memphis",
+     "name": "Memphis",
+     "db": "db/majestic-memphis.json",
+     "ready": false
+    }
+   ]
+  }
+ ]
+}

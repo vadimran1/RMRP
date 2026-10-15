@@ -1,7 +1,7 @@
 {
-  "version": 30,
-  "date": "2026-10-14",
-  "notes": "5.9: ключи активации",
+  "version": 31,
+  "date": "2026-10-16",
+  "notes": "6.0: выбор проекта и сервера, Majestic RP — Miami",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "e2615c1f1b2ed840b10c564ac19196eef1ec5d9054d10eab88adb4fd079caa8c",
-      "size": 18960
+      "sha256": "3f4a806977b2c573c85d749ee5d362494c55620b0b65922421f1f72815ca13c8",
+      "size": 19535
     },
     {
       "name": "aiconfig.json",
@@ -32,13 +32,25 @@
       "name": "legal_items.png",
       "sha256": "a240f9265c336c340345da928451eee48e4bfed884c039cf7109d51a07af3ecb",
       "size": 298657
+    },
+    {
+      "name": "projects.json",
+      "sha256": "72fe5d43e9eb06f9ace3f12ac6de160f6d0ab89f1566b59437f79f04c5c54d56",
+      "size": 3200
+    }
+  ],
+  "dbs": [
+    {
+      "name": "db/majestic-miami.json",
+      "sha256": "16841437bbec0562b4f661eb4dc0d20219b6866afcade012ab892f7273e2c476",
+      "size": 4300474
     }
   ],
   "app": {
-    "version": "5.9",
+    "version": "6.0",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "b7278784ee73619d8442b0382637b553713f7550d8b263fc59b68e03ce43496b",
-    "size": 43020449,
-    "notes": "5.9: ключи активации"
+    "sha256": "e3f0e67a788b71b6889b99e35e64656e4e0602dd1e710ef795360f514b5182f7",
+    "size": 43069730,
+    "notes": "6.0: выбор проекта и сервера, Majestic RP — Miami"
   }
 }
