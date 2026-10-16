@@ -50,19 +50,19 @@
      "id": "atlanta",
      "name": "Atlanta",
      "db": "db/majestic-atlanta.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "san-diego",
      "name": "San Diego",
      "db": "db/majestic-san-diego.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "los-angeles",
      "name": "Los Angeles",
      "db": "db/majestic-los-angeles.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "miami",

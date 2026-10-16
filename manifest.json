@@ -1,7 +1,7 @@
 {
-  "version": 33,
+  "version": 34,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Chicago и San Francisco",
+  "notes": "Majestic RP: законы Atlanta, San Diego и Los Angeles",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,11 +35,16 @@
     },
     {
       "name": "projects.json",
-      "sha256": "1fe0b79b2f3d54c2e0d47a78465ed9361ebfaf4b119e7269c4e6a9a69cedc2f4",
-      "size": 3196
+      "sha256": "0f6dd5c7d7d9e67226a2d8dc908112f6dce511345ebad1058b61447121f72c83",
+      "size": 3193
     }
   ],
   "dbs": [
+    {
+      "name": "db/majestic-atlanta.json",
+      "sha256": "9fdf24fc97283b2b747fb31e9cc1b48f8889aa75939f47efcb892038a32e5df6",
+      "size": 4210159
+    },
     {
       "name": "db/majestic-chicago.json",
       "sha256": "3acf5d842b01027475188cbc84a6a8bed492c76ae0528c2361156d0275aa13cf",
@@ -51,6 +56,11 @@
       "size": 4384883
     },
     {
+      "name": "db/majestic-los-angeles.json",
+      "sha256": "9e0a44c163d08bf18f001922b96c2ec602e3c9120dd56d64801694956ec48be8",
+      "size": 4632819
+    },
+    {
       "name": "db/majestic-miami.json",
       "sha256": "82c66fd8433be878fff77fa93b9a7c59bb82f15d69f08e8e6b5c606772fa80cf",
       "size": 4290161
@@ -59,6 +69,11 @@
       "name": "db/majestic-new-york.json",
       "sha256": "597bc3ac0e0e3c3325ec3ce4e04208f337a3111dffcdb4caa3c20a58865d8b05",
       "size": 5154874
+    },
+    {
+      "name": "db/majestic-san-diego.json",
+      "sha256": "f14d4426821b0e29e2775e8877e60f206fd96b8296796aa1385dcf7b3f2d6faf",
+      "size": 4956887
     },
     {
       "name": "db/majestic-san-francisco.json",
