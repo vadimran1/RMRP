@@ -38,13 +38,13 @@
      "id": "chicago",
      "name": "Chicago",
      "db": "db/majestic-chicago.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "san-francisco",
      "name": "San Francisco",
      "db": "db/majestic-san-francisco.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "atlanta",

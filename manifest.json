@@ -1,7 +1,7 @@
 {
-  "version": 32,
+  "version": 33,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы New York и Detroit",
+  "notes": "Majestic RP: законы Chicago и San Francisco",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,25 +35,35 @@
     },
     {
       "name": "projects.json",
-      "sha256": "bdf59c8ec6207871ae7557c9a0f308780acffee1e83af88999f3edc0d2c7e53e",
-      "size": 3198
+      "sha256": "1fe0b79b2f3d54c2e0d47a78465ed9361ebfaf4b119e7269c4e6a9a69cedc2f4",
+      "size": 3196
     }
   ],
   "dbs": [
     {
+      "name": "db/majestic-chicago.json",
+      "sha256": "3acf5d842b01027475188cbc84a6a8bed492c76ae0528c2361156d0275aa13cf",
+      "size": 3901727
+    },
+    {
       "name": "db/majestic-detroit.json",
-      "sha256": "ea9995c872d01eb442a5c08ae74c0c297041f9457f25b6d3534282ad1c62574d",
-      "size": 4393832
+      "sha256": "825757574685d40d307c0bb3fde778de00c06eac984d33bb746615260483e837",
+      "size": 4384883
     },
     {
       "name": "db/majestic-miami.json",
-      "sha256": "8bbc8b31ddaef976566b8430d092c908b8bc168b335d5252567c2b7058d67cf6",
-      "size": 4300686
+      "sha256": "82c66fd8433be878fff77fa93b9a7c59bb82f15d69f08e8e6b5c606772fa80cf",
+      "size": 4290161
     },
     {
       "name": "db/majestic-new-york.json",
-      "sha256": "a42379e27a65b9b27ec6f906cab2c2c0dea01c173062fcb2142209f8ddcf2627",
-      "size": 5163539
+      "sha256": "597bc3ac0e0e3c3325ec3ce4e04208f337a3111dffcdb4caa3c20a58865d8b05",
+      "size": 5154874
+    },
+    {
+      "name": "db/majestic-san-francisco.json",
+      "sha256": "bb5aecec1d831fca9e290c89ccaf6d957b675eb6b5c058b8910974c13db3c566",
+      "size": 4020258
     }
   ],
   "app": {
