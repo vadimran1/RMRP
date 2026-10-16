@@ -1,7 +1,7 @@
 {
-  "version": 40,
+  "version": 41,
   "date": "2026-10-16",
-  "notes": "Majestic RP: все 19 серверов, обновлены Miami и New York",
+  "notes": "Majestic RP: названия статей без служебных меток",
   "files": [
     {
       "name": "zakonka.json",
@@ -42,33 +42,33 @@
   "dbs": [
     {
       "name": "db/majestic-atlanta.json",
-      "sha256": "034b9cf3eaf5d9f0baac0b6e21bdb7affd92702e8e49a6539aa762897de55966",
-      "size": 4231122
+      "sha256": "2731b3542336a2c15720e587cce1c73c53860e3fc9b6141ec0e1453ffab74f26",
+      "size": 4228051
     },
     {
       "name": "db/majestic-boston.json",
-      "sha256": "c03d330055fc54d02cc5ef89411b40d18237f5035e99aeb2867c61277fefd3dc",
-      "size": 5387402
+      "sha256": "d0c056af2c9fa5b917e7cb718fd35f287b9ef70194d4e105c7784f88f6087752",
+      "size": 5386015
     },
     {
       "name": "db/majestic-chicago.json",
-      "sha256": "372b187997f25c3679639124ccb7ad12ac8decd780ae64438229ab089f97d28a",
-      "size": 3917650
+      "sha256": "abfa8c461bd499ba38c22fb89cd776d6360093f074731aca32aa49c96f424273",
+      "size": 3914632
     },
     {
       "name": "db/majestic-dallas.json",
-      "sha256": "696dcd3a05528e2de56a50a5c2631e51d27114ecb817406b193e8218a7eac5d6",
-      "size": 5473455
+      "sha256": "2599d1788c84468961d3d36e8beeb32ae41fa900880c2cd13a21501b42140ae3",
+      "size": 5471331
     },
     {
       "name": "db/majestic-denver.json",
-      "sha256": "3a49ae05506dcc606ddd0815ff9036145adb870337e03b9bef57435b4f78fe95",
-      "size": 5062557
+      "sha256": "ac48f70914f6957ca7e4699e43da24729f1f9ba514d897b228b20607d7469291",
+      "size": 5060610
     },
     {
       "name": "db/majestic-detroit.json",
-      "sha256": "fa343edf08c70388261f5f1a48250e1a14808d9c83f9ab336faa034810672fa1",
-      "size": 4409486
+      "sha256": "85fa496710c76a8d547c7b05c63dd233fa64635438f979f0feaadcd0a527f4c3",
+      "size": 4409614
     },
     {
       "name": "db/majestic-houston.json",
@@ -77,13 +77,13 @@
     },
     {
       "name": "db/majestic-las-vegas.json",
-      "sha256": "f290b0624ac266037d71cdb422f3a8af2f3606748d900bc97b889fa7673b6d8e",
-      "size": 4696280
+      "sha256": "d0ca15e6eaa1a1086778871671b92a37449da7ce1985a1a67054848c3e6d0e7e",
+      "size": 4694783
     },
     {
       "name": "db/majestic-los-angeles.json",
-      "sha256": "8dfebd7f2f7141fc1d38e9d5e21cabae9d0e7bbea44e778ff70e4137eaae9428",
-      "size": 4652556
+      "sha256": "e3c4dfb447b3447036d15816bde60c355898e071a6318d6a36a55ef1aee0210b",
+      "size": 4652196
     },
     {
       "name": "db/majestic-memphis.json",
@@ -107,8 +107,8 @@
     },
     {
       "name": "db/majestic-phoenix.json",
-      "sha256": "a64372cc2c29454d44b3ac360fc4704fbfaa7d0f4125a7878a0b121c34256546",
-      "size": 3974004
+      "sha256": "28fbe38ce789497e8f937c5b1d5d18ffbec2d6250c8fac052711c21a3a0af444",
+      "size": 3971586
     },
     {
       "name": "db/majestic-portland.json",
@@ -117,7 +117,7 @@
     },
     {
       "name": "db/majestic-san-diego.json",
-      "sha256": "2c138d36aea501ffdfadecad61905ed0236c59d7bf2ee6af6fb33c57659da05a",
+      "sha256": "3769e5dcdfada83f3a2af787e545c6a577efd066403423cec650545c383a1df4",
       "size": 4961539
     },
     {
