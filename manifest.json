@@ -1,7 +1,7 @@
 {
-  "version": 31,
+  "version": 32,
   "date": "2026-10-16",
-  "notes": "6.0: выбор проекта и сервера, Majestic RP — Miami",
+  "notes": "Majestic RP: законы New York и Detroit",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,15 +35,25 @@
     },
     {
       "name": "projects.json",
-      "sha256": "72fe5d43e9eb06f9ace3f12ac6de160f6d0ab89f1566b59437f79f04c5c54d56",
-      "size": 3200
+      "sha256": "bdf59c8ec6207871ae7557c9a0f308780acffee1e83af88999f3edc0d2c7e53e",
+      "size": 3198
     }
   ],
   "dbs": [
     {
+      "name": "db/majestic-detroit.json",
+      "sha256": "ea9995c872d01eb442a5c08ae74c0c297041f9457f25b6d3534282ad1c62574d",
+      "size": 4393832
+    },
+    {
       "name": "db/majestic-miami.json",
-      "sha256": "16841437bbec0562b4f661eb4dc0d20219b6866afcade012ab892f7273e2c476",
-      "size": 4300474
+      "sha256": "8bbc8b31ddaef976566b8430d092c908b8bc168b335d5252567c2b7058d67cf6",
+      "size": 4300686
+    },
+    {
+      "name": "db/majestic-new-york.json",
+      "sha256": "a42379e27a65b9b27ec6f906cab2c2c0dea01c173062fcb2142209f8ddcf2627",
+      "size": 5163539
     }
   ],
   "app": {

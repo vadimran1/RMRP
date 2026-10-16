@@ -26,13 +26,13 @@
      "id": "new-york",
      "name": "New York",
      "db": "db/majestic-new-york.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "detroit",
      "name": "Detroit",
      "db": "db/majestic-detroit.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "chicago",
