@@ -1,7 +1,7 @@
 {
-  "version": 39,
+  "version": 40,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Portland, Orlando и Memphis — все 19 серверов",
+  "notes": "Majestic RP: все 19 серверов, обновлены Miami и New York",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "3f4a806977b2c573c85d749ee5d362494c55620b0b65922421f1f72815ca13c8",
-      "size": 19535
+      "sha256": "047b7b01dc2001b1880b072425a8241cfa6fd3a45690d09fc7b63cff3d3497ef",
+      "size": 19212
     },
     {
       "name": "aiconfig.json",
@@ -92,13 +92,13 @@
     },
     {
       "name": "db/majestic-miami.json",
-      "sha256": "c1e292e501dd11db2236cb15a21ec1a9bf4d56ed9557c11c2c84e2dccb4a5929",
-      "size": 4292721
+      "sha256": "9fc5cccaafe36616b16b4c0868f023ed30af6f33b29fe8b7e7bfd1910ce4c05d",
+      "size": 4287923
     },
     {
       "name": "db/majestic-new-york.json",
-      "sha256": "7fa9fcbe080988654ff2fb96e1323be82ed30b6b966b64464ff677a1a99e2509",
-      "size": 5157714
+      "sha256": "057391c3b31c372f94f6715e537c4fe6e0fa9b0efc71edcd50e17f700dd0559e",
+      "size": 5348418
     },
     {
       "name": "db/majestic-orlando.json",
