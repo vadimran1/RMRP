@@ -98,13 +98,13 @@
      "id": "houston",
      "name": "Houston",
      "db": "db/majestic-houston.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "seattle",
      "name": "Seattle",
      "db": "db/majestic-seattle.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "phoenix",
