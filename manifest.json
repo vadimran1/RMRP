@@ -1,7 +1,7 @@
 {
-  "version": 34,
+  "version": 35,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Atlanta, San Diego и Los Angeles",
+  "notes": "Majestic RP: законы Las Vegas и Washington, статьи с номером главы",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,50 +35,60 @@
     },
     {
       "name": "projects.json",
-      "sha256": "0f6dd5c7d7d9e67226a2d8dc908112f6dce511345ebad1058b61447121f72c83",
-      "size": 3193
+      "sha256": "0b4ee69b0b55f8b858fc51a15790cb644f647953264de1b93f1ecff8c3c6a817",
+      "size": 3191
     }
   ],
   "dbs": [
     {
       "name": "db/majestic-atlanta.json",
-      "sha256": "9fdf24fc97283b2b747fb31e9cc1b48f8889aa75939f47efcb892038a32e5df6",
-      "size": 4210159
+      "sha256": "034b9cf3eaf5d9f0baac0b6e21bdb7affd92702e8e49a6539aa762897de55966",
+      "size": 4231122
     },
     {
       "name": "db/majestic-chicago.json",
-      "sha256": "3acf5d842b01027475188cbc84a6a8bed492c76ae0528c2361156d0275aa13cf",
-      "size": 3901727
+      "sha256": "372b187997f25c3679639124ccb7ad12ac8decd780ae64438229ab089f97d28a",
+      "size": 3917650
     },
     {
       "name": "db/majestic-detroit.json",
-      "sha256": "825757574685d40d307c0bb3fde778de00c06eac984d33bb746615260483e837",
-      "size": 4384883
+      "sha256": "fa343edf08c70388261f5f1a48250e1a14808d9c83f9ab336faa034810672fa1",
+      "size": 4409486
+    },
+    {
+      "name": "db/majestic-las-vegas.json",
+      "sha256": "f290b0624ac266037d71cdb422f3a8af2f3606748d900bc97b889fa7673b6d8e",
+      "size": 4696280
     },
     {
       "name": "db/majestic-los-angeles.json",
-      "sha256": "9e0a44c163d08bf18f001922b96c2ec602e3c9120dd56d64801694956ec48be8",
-      "size": 4632819
+      "sha256": "8dfebd7f2f7141fc1d38e9d5e21cabae9d0e7bbea44e778ff70e4137eaae9428",
+      "size": 4652556
     },
     {
       "name": "db/majestic-miami.json",
-      "sha256": "82c66fd8433be878fff77fa93b9a7c59bb82f15d69f08e8e6b5c606772fa80cf",
-      "size": 4290161
+      "sha256": "c1e292e501dd11db2236cb15a21ec1a9bf4d56ed9557c11c2c84e2dccb4a5929",
+      "size": 4292721
     },
     {
       "name": "db/majestic-new-york.json",
-      "sha256": "597bc3ac0e0e3c3325ec3ce4e04208f337a3111dffcdb4caa3c20a58865d8b05",
-      "size": 5154874
+      "sha256": "7fa9fcbe080988654ff2fb96e1323be82ed30b6b966b64464ff677a1a99e2509",
+      "size": 5157714
     },
     {
       "name": "db/majestic-san-diego.json",
-      "sha256": "f14d4426821b0e29e2775e8877e60f206fd96b8296796aa1385dcf7b3f2d6faf",
-      "size": 4956887
+      "sha256": "2c138d36aea501ffdfadecad61905ed0236c59d7bf2ee6af6fb33c57659da05a",
+      "size": 4961539
     },
     {
       "name": "db/majestic-san-francisco.json",
-      "sha256": "bb5aecec1d831fca9e290c89ccaf6d957b675eb6b5c058b8910974c13db3c566",
-      "size": 4020258
+      "sha256": "9119e3f887bc0cb48de5ca591e883c8b89b83095ba6fb3e27716e5f6e8c3fddb",
+      "size": 4022270
+    },
+    {
+      "name": "db/majestic-washington.json",
+      "sha256": "bebabb87cb484b69bbacbb94804e6bc8345b95f62c56f4c0e78c694250a2e71f",
+      "size": 3892715
     }
   ],
   "app": {

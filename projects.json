@@ -74,13 +74,13 @@
      "id": "las-vegas",
      "name": "Las Vegas",
      "db": "db/majestic-las-vegas.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "washington",
      "name": "Washington",
      "db": "db/majestic-washington.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "dallas",
