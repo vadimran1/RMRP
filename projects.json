@@ -110,13 +110,13 @@
      "id": "phoenix",
      "name": "Phoenix",
      "db": "db/majestic-phoenix.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "denver",
      "name": "Denver",
      "db": "db/majestic-denver.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "portland",

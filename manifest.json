@@ -1,7 +1,7 @@
 {
-  "version": 37,
+  "version": 38,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Houston и Seattle",
+  "notes": "Majestic RP: законы Phoenix и Denver",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,8 +35,8 @@
     },
     {
       "name": "projects.json",
-      "sha256": "ad67cbfe8cef1ae7e03e056acae03f2a9f4f8a20f647a2f8a3a3d3f27ee3fed0",
-      "size": 3187
+      "sha256": "9b8799d4cd175bc97d0180026c594c585c0abe93fa0d8df41c0b8cce16fea44d",
+      "size": 3185
     }
   ],
   "dbs": [
@@ -59,6 +59,11 @@
       "name": "db/majestic-dallas.json",
       "sha256": "696dcd3a05528e2de56a50a5c2631e51d27114ecb817406b193e8218a7eac5d6",
       "size": 5473455
+    },
+    {
+      "name": "db/majestic-denver.json",
+      "sha256": "3a49ae05506dcc606ddd0815ff9036145adb870337e03b9bef57435b4f78fe95",
+      "size": 5062557
     },
     {
       "name": "db/majestic-detroit.json",
@@ -89,6 +94,11 @@
       "name": "db/majestic-new-york.json",
       "sha256": "7fa9fcbe080988654ff2fb96e1323be82ed30b6b966b64464ff677a1a99e2509",
       "size": 5157714
+    },
+    {
+      "name": "db/majestic-phoenix.json",
+      "sha256": "a64372cc2c29454d44b3ac360fc4704fbfaa7d0f4125a7878a0b121c34256546",
+      "size": 3974004
     },
     {
       "name": "db/majestic-san-diego.json",
