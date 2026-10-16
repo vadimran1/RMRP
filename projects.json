@@ -122,19 +122,19 @@
      "id": "portland",
      "name": "Portland",
      "db": "db/majestic-portland.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "orlando",
      "name": "Orlando",
      "db": "db/majestic-orlando.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "memphis",
      "name": "Memphis",
      "db": "db/majestic-memphis.json",
-     "ready": false
+     "ready": true
     }
    ]
   }

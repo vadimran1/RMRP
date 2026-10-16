@@ -1,7 +1,7 @@
 {
-  "version": 38,
+  "version": 39,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Phoenix и Denver",
+  "notes": "Majestic RP: законы Portland, Orlando и Memphis — все 19 серверов",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,8 +35,8 @@
     },
     {
       "name": "projects.json",
-      "sha256": "9b8799d4cd175bc97d0180026c594c585c0abe93fa0d8df41c0b8cce16fea44d",
-      "size": 3185
+      "sha256": "973f566272a5437e0ddb674f545be142285a005a3844008c6aaeefb9684d9de5",
+      "size": 3182
     }
   ],
   "dbs": [
@@ -86,6 +86,11 @@
       "size": 4652556
     },
     {
+      "name": "db/majestic-memphis.json",
+      "sha256": "f712eab89490c47b6df1dafb02914042206e187469902d039b3e884275ba7331",
+      "size": 5459536
+    },
+    {
       "name": "db/majestic-miami.json",
       "sha256": "c1e292e501dd11db2236cb15a21ec1a9bf4d56ed9557c11c2c84e2dccb4a5929",
       "size": 4292721
@@ -96,9 +101,19 @@
       "size": 5157714
     },
     {
+      "name": "db/majestic-orlando.json",
+      "sha256": "690b148d4d3cab51e378b07c54053a8dfdf7bee14ca6266d40126a22dc9ec0a4",
+      "size": 5368629
+    },
+    {
       "name": "db/majestic-phoenix.json",
       "sha256": "a64372cc2c29454d44b3ac360fc4704fbfaa7d0f4125a7878a0b121c34256546",
       "size": 3974004
+    },
+    {
+      "name": "db/majestic-portland.json",
+      "sha256": "3e3d55a4a95ad0419fb1385a6a7201e8d9e77e7dc87b64923463f8ce7f023c3c",
+      "size": 4922081
     },
     {
       "name": "db/majestic-san-diego.json",
