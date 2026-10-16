@@ -86,13 +86,13 @@
      "id": "dallas",
      "name": "Dallas",
      "db": "db/majestic-dallas.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "boston",
      "name": "Boston",
      "db": "db/majestic-boston.json",
-     "ready": false
+     "ready": true
     },
     {
      "id": "houston",

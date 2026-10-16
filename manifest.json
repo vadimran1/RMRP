@@ -1,7 +1,7 @@
 {
-  "version": 35,
+  "version": 36,
   "date": "2026-10-16",
-  "notes": "Majestic RP: законы Las Vegas и Washington, статьи с номером главы",
+  "notes": "Majestic RP: законы Dallas и Boston",
   "files": [
     {
       "name": "zakonka.json",
@@ -35,8 +35,8 @@
     },
     {
       "name": "projects.json",
-      "sha256": "0b4ee69b0b55f8b858fc51a15790cb644f647953264de1b93f1ecff8c3c6a817",
-      "size": 3191
+      "sha256": "d993b730985459986036cb8511886813066ae8ae1e49e6f913a339ca87aea5a0",
+      "size": 3189
     }
   ],
   "dbs": [
@@ -46,9 +46,19 @@
       "size": 4231122
     },
     {
+      "name": "db/majestic-boston.json",
+      "sha256": "c03d330055fc54d02cc5ef89411b40d18237f5035e99aeb2867c61277fefd3dc",
+      "size": 5387402
+    },
+    {
       "name": "db/majestic-chicago.json",
       "sha256": "372b187997f25c3679639124ccb7ad12ac8decd780ae64438229ab089f97d28a",
       "size": 3917650
+    },
+    {
+      "name": "db/majestic-dallas.json",
+      "sha256": "696dcd3a05528e2de56a50a5c2631e51d27114ecb817406b193e8218a7eac5d6",
+      "size": 5473455
     },
     {
       "name": "db/majestic-detroit.json",
