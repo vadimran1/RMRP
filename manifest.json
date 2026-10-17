@@ -1,7 +1,7 @@
 {
-  "version": 44,
+  "version": 45,
   "date": "2026-10-17",
-  "notes": "Запасной путь к серверу: ретранслятор Cloudflare",
+  "notes": "6.3: новая иконка",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "c50bd00ea0068e14d2500548af4e99d044625290adc2aef14e058d578feecfc7",
-      "size": 20288
+      "sha256": "de64e505399984a096d27e1c5b6925911023c99664a7eef88d7b106848ac599f",
+      "size": 20529
     },
     {
       "name": "aiconfig.json",
@@ -137,10 +137,10 @@
     }
   ],
   "app": {
-    "version": "6.2",
+    "version": "6.3",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "4ac3a80ae223ac305116f44d4ccb71b26fe5c69b18604607412f666ccee7456c",
-    "size": 43078293,
-    "notes": "6.2: запасная связь"
+    "sha256": "ed95687a6fe1cd30e6309b02940c3e2d5598bdd9e01dc0c1bf0cf3ee76de3984",
+    "size": 43355305,
+    "notes": "6.3: новая иконка"
   }
 }
