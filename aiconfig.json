@@ -18,5 +18,10 @@
  ],
  "require_login": true,
  "promo_hours": 48,
- "promo_first_minutes": 3
+ "promo_first_minutes": 3,
+ "mirrors": {
+  "pamyatka-proxy.vercel.app": [
+   "https://pamyatka-relay.bdfsgegge.workers.dev"
+  ]
+ }
 }

@@ -1,7 +1,7 @@
 {
-  "version": 43,
+  "version": 44,
   "date": "2026-10-17",
-  "notes": "6.2: запасная связь",
+  "notes": "Запасной путь к серверу: ретранслятор Cloudflare",
   "files": [
     {
       "name": "zakonka.json",
@@ -25,8 +25,8 @@
     },
     {
       "name": "aiconfig.json",
-      "sha256": "9803f816b824f04bbc898e60e57ec96a580665305af0d5f7cd6f73ff644591e5",
-      "size": 450
+      "sha256": "589c8dbccf23f4c76943c38a557082170d3890df7714ca8a6027b43f1814f068",
+      "size": 560
     },
     {
       "name": "legal_items.png",
