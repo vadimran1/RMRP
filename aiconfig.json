@@ -21,7 +21,8 @@
  "promo_first_minutes": 3,
  "mirrors": {
   "pamyatka-proxy.vercel.app": [
-   "https://pamyatka-relay.bdfsgegge.workers.dev"
+   "https://pamyatka-relay.bdfsgegge.workers.dev",
+   "https://functions.yandexcloud.net/d4eulq5mj6rcpa1mggki?path={path}"
   ]
  }
 }
