@@ -1,7 +1,7 @@
 {
-  "version": 47,
-  "date": "2026-10-17",
-  "notes": "6.5: надёжнее при блокировках",
+  "version": 48,
+  "date": "2026-10-19",
+  "notes": "Сама ставит обновления при запуске, значок «Нет сети», кнопка выбора сервера",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "d67ad12fdc3a6fda937cdee5ee6f6d76a2a989aad6b200f8672def0380aec79b",
-      "size": 21241
+      "sha256": "47645fd61a411b47fb8d4a413422a1fac01b1dbb011d6d954ff1c8e3d0103aa1",
+      "size": 21919
     },
     {
       "name": "aiconfig.json",
@@ -137,10 +137,10 @@
     }
   ],
   "app": {
-    "version": "6.5",
+    "version": "6.6",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "ecbffa5de4c4299f415d2118fb68b32cfc7039e21b801ce700c558d7faaa0b99",
-    "size": 43357431,
-    "notes": "6.5: надёжнее при блокировках"
+    "sha256": "4be2041fe3441a1caeae7ff55610c4925c52bc423e620f362e64274c7c57edf1",
+    "size": 43400645,
+    "notes": "Сама ставит обновления при запуске, значок «Нет сети», кнопка выбора сервера"
   }
 }
