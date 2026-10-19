@@ -1,7 +1,7 @@
 {
-  "version": 50,
+  "version": 51,
   "date": "2026-10-19",
-  "notes": "Исправлено переключение серверов, пункты правил",
+  "notes": "Фильтры законов листаются, фильтр «Правила»",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "5a1b8314a056393f3fc943356e3edc14b1de30e156295bf2e94bcef27d249ca2",
-      "size": 23263
+      "sha256": "03db1ab0da36a1e347540561f83630122234a72dcedd2debfaf43b9f8706ac73",
+      "size": 23693
     },
     {
       "name": "aiconfig.json",
@@ -137,10 +137,10 @@
     }
   ],
   "app": {
-    "version": "6.7",
+    "version": "6.8",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "4f43ce4eafa5d95eb06920b6de9d037eb96d69793c2afee3ee5d5bda187dc6c6",
-    "size": 43565756,
-    "notes": "Исправлено переключение серверов, пункты правил"
+    "sha256": "f6ad194387fd35f6bb31277e3724fb76f3cc083d2e74e05f7e257b7ae9224648",
+    "size": 43606083,
+    "notes": "Фильтры законов листаются, фильтр «Правила»"
   }
 }
