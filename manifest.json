@@ -1,12 +1,12 @@
 {
-  "version": 48,
+  "version": 49,
   "date": "2026-10-19",
-  "notes": "Сама ставит обновления при запуске, значок «Нет сети», кнопка выбора сервера",
+  "notes": "Правила проекта RMRP: ПП, ПГО, ПКО и другие",
   "files": [
     {
       "name": "zakonka.json",
-      "sha256": "256638880f3311dad33995a373b0ee2d2cbecb430d7a7851da2a623b3dd31647",
-      "size": 4638345
+      "sha256": "4757bb3d0a3a74be5eb586e922e89c445e6126bf0cb17365c0bc34de48faeb2e",
+      "size": 5976927
     },
     {
       "name": "guides.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "47645fd61a411b47fb8d4a413422a1fac01b1dbb011d6d954ff1c8e3d0103aa1",
-      "size": 21919
+      "sha256": "bf67e21671e761d4892583e2937640d3f229be297c2a6d7d2708e1238e781b75",
+      "size": 22616
     },
     {
       "name": "aiconfig.json",
