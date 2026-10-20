@@ -1,8 +1,8 @@
 {
-  "version": 60,
-  "tag": "d60",
+  "version": 61,
+  "tag": "d61",
   "date": "2026-10-20",
-  "notes": "Логотипы проектов на заставке",
+  "notes": "без записи в обновлениях",
   "files": [
     {
       "name": "zakonka.json",
@@ -21,8 +21,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "6f2d9d1055b47db04e79ad2a9ff7f6a7e7ed9c5321fe425ebf8a5ed3ed072d4c",
-      "size": 26389
+      "sha256": "2b7ca5150bf04774145e05e171b1cd8af0c9ddb52d28f03cf947603d906ad74f",
+      "size": 26118
     },
     {
       "name": "aiconfig.json",
