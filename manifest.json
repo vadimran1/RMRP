@@ -1,6 +1,6 @@
 {
-  "version": 53,
-  "tag": "d53",
+  "version": 54,
+  "tag": "d54",
   "date": "2026-10-20",
   "notes": "Обновляется сама, даже без VPN",
   "files": [
@@ -146,18 +146,28 @@
     "parts": [
       {
         "name": "Pamyatka-RMRP.exe.p1",
-        "sha256": "a5da52597662729dfefe5da6f40f009bbd3585967a810d903487c4c1c87f73b0",
-        "size": 15728640
+        "sha256": "2c839b56b4c043ddeea40ea05b9ac174ca920749a3ac7466b4cbbdcff435a137",
+        "size": 10485760
       },
       {
         "name": "Pamyatka-RMRP.exe.p2",
-        "sha256": "6a5ccdbf0e59ed608673cbfab4e8ee07e2b343448f114061eb6fcfebe727ec5e",
-        "size": 15728640
+        "sha256": "1cee08839fe2224fed0f2552f8d06f0bf1aeff889c027f844fc20f87deeca8f2",
+        "size": 10485760
       },
       {
         "name": "Pamyatka-RMRP.exe.p3",
-        "sha256": "381dfd8f3376d3ab3e4201ade8a0eb0ffa5c936c75d2191557de466f17d242cb",
-        "size": 12218208
+        "sha256": "2f6e2c59f160b1e0ee7079e8c503245915335066a50f8acec6f9bb141930aa22",
+        "size": 10485760
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p4",
+        "sha256": "94950d3a7adbe9bc2c53fb5879f3e1a8006853cd1b4c15a2d6a71ef4db4d17db",
+        "size": 10485760
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p5",
+        "sha256": "929f38c90faafa568194b243ae8dbd88e1f6ac3e06223d088b77eb5cd23aa098",
+        "size": 1732448
       }
     ]
   }
