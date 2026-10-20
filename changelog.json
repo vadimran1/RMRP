@@ -1,6 +1,15 @@
 {
  "entries": [
   {
+   "app": "6.12",
+   "date": "2026-10-20",
+   "title": "Законы GTA5RP",
+   "items": [
+    "Добавлен проект GTA5RP: законы и правила всех 13 серверов — Downtown, Strawberry, Blackberry, Insquad, Sunrise, Richman, Eclipse, Rockford, Redwood, Murrieta, La Puerta, Chiliad, Mirror.",
+    "Выберите свой сервер кнопкой «Сервер» вверху — Памятка скачает его законы. Помощник и режимы адвоката и полицейского тоже работают."
+   ]
+  },
+  {
    "app": "6.11",
    "date": "2026-10-20",
    "title": "Обновления — ещё надёжнее",

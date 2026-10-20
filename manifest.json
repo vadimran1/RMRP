@@ -1,8 +1,8 @@
 {
-  "version": 57,
-  "tag": "d57",
+  "version": 58,
+  "tag": "d58",
   "date": "2026-10-20",
-  "notes": "Обновления через защищённый путь",
+  "notes": "Законы GTA5RP: 13 серверов",
   "files": [
     {
       "name": "zakonka.json",
@@ -21,8 +21,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "826612021223a780485d3ef4dff766b71a2f2e6b536488670b4842be1e9c45ab",
-      "size": 25517
+      "sha256": "2b7ca5150bf04774145e05e171b1cd8af0c9ddb52d28f03cf947603d906ad74f",
+      "size": 26118
     },
     {
       "name": "aiconfig.json",
@@ -36,11 +36,76 @@
     },
     {
       "name": "projects.json",
-      "sha256": "973f566272a5437e0ddb674f545be142285a005a3844008c6aaeefb9684d9de5",
-      "size": 3182
+      "sha256": "a17e149f5dad241b91d132741fc9d23cf039463ac24a85dedd9fad4dd27c014e",
+      "size": 4957
     }
   ],
   "dbs": [
+    {
+      "name": "db/gta5rp-blackberry.json",
+      "sha256": "58858a69ea51ae9c00d6dc40458e19b873cf97393d732cae508b84ef3b48db19",
+      "size": 5334065
+    },
+    {
+      "name": "db/gta5rp-chiliad.json",
+      "sha256": "d3f64c4cda259a8500dbec841a13e723798354176ec12d1567d19268b0292b06",
+      "size": 4527952
+    },
+    {
+      "name": "db/gta5rp-downtown.json",
+      "sha256": "293bdbd609654edf6620c440a0e4fe4725f871e451ebdf8da72de11763e4281f",
+      "size": 3405547
+    },
+    {
+      "name": "db/gta5rp-eclipse.json",
+      "sha256": "44751679bdbea93eee56dad8785f54b25e5ea344d338ee62c8620e1dcfc78d3b",
+      "size": 4355855
+    },
+    {
+      "name": "db/gta5rp-insquad.json",
+      "sha256": "3d3c360c5175aff722f7197b655377763f3c36b867f4c2a019e5b44a1cd62f2a",
+      "size": 4184995
+    },
+    {
+      "name": "db/gta5rp-la-puerta.json",
+      "sha256": "56406d560e76f25e27c75186011765798f5c0139dc89e641465315044fe52ec0",
+      "size": 4825755
+    },
+    {
+      "name": "db/gta5rp-mirror.json",
+      "sha256": "4fa75067e5c791c4703ec6c7b92c40b2803b22131994b970e02067de28ac5747",
+      "size": 4139606
+    },
+    {
+      "name": "db/gta5rp-murrieta.json",
+      "sha256": "e03f23511e65df28ee511fa700a289af36d9fb04e1695089e4fe68416541e560",
+      "size": 4022146
+    },
+    {
+      "name": "db/gta5rp-redwood.json",
+      "sha256": "02231acd04c7174f56c7a1e364f9e7cff8ed396c2f81e7902806c13c04e24a06",
+      "size": 4228452
+    },
+    {
+      "name": "db/gta5rp-richman.json",
+      "sha256": "c017b39e2e4efd0eace6c768d9f083e5ed2220f1d44333e9334a4a6860d0c585",
+      "size": 5733803
+    },
+    {
+      "name": "db/gta5rp-rockford.json",
+      "sha256": "b82e798271c484b0ba1170d42b6691922290c99ca91e1b1360c983801e7df9fa",
+      "size": 5231358
+    },
+    {
+      "name": "db/gta5rp-strawberry.json",
+      "sha256": "cd9bb69d3cfdffbf4de726c9706e10db2dde9c1b60eb6683dd91e8f2a7992a0c",
+      "size": 3858209
+    },
+    {
+      "name": "db/gta5rp-sunrise.json",
+      "sha256": "186f0179bf2bca4b31a6a85e5ecdc6c39716cd1f95cced1678104dafac23a393",
+      "size": 4002382
+    },
     {
       "name": "db/majestic-atlanta.json",
       "sha256": "2731b3542336a2c15720e587cce1c73c53860e3fc9b6141ec0e1453ffab74f26",

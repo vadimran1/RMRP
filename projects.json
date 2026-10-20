@@ -137,6 +137,92 @@
      "ready": true
     }
    ]
+  },
+  {
+   "id": "gta5rp",
+   "name": "GTA5RP",
+   "full": "GTA5RP — GTA 5 Role Play",
+   "prompt": "GTA5RP (GTA 5, сервер {server})",
+   "servers": [
+    {
+     "id": "blackberry",
+     "name": "Blackberry",
+     "db": "db/gta5rp-blackberry.json",
+     "ready": true
+    },
+    {
+     "id": "chiliad",
+     "name": "Chiliad",
+     "db": "db/gta5rp-chiliad.json",
+     "ready": true
+    },
+    {
+     "id": "downtown",
+     "name": "Downtown",
+     "db": "db/gta5rp-downtown.json",
+     "ready": true
+    },
+    {
+     "id": "eclipse",
+     "name": "Eclipse",
+     "db": "db/gta5rp-eclipse.json",
+     "ready": true
+    },
+    {
+     "id": "insquad",
+     "name": "Insquad",
+     "db": "db/gta5rp-insquad.json",
+     "ready": true
+    },
+    {
+     "id": "la-puerta",
+     "name": "La Puerta",
+     "db": "db/gta5rp-la-puerta.json",
+     "ready": true
+    },
+    {
+     "id": "mirror",
+     "name": "Mirror",
+     "db": "db/gta5rp-mirror.json",
+     "ready": true
+    },
+    {
+     "id": "murrieta",
+     "name": "Murrieta",
+     "db": "db/gta5rp-murrieta.json",
+     "ready": true
+    },
+    {
+     "id": "redwood",
+     "name": "Redwood",
+     "db": "db/gta5rp-redwood.json",
+     "ready": true
+    },
+    {
+     "id": "richman",
+     "name": "Richman",
+     "db": "db/gta5rp-richman.json",
+     "ready": true
+    },
+    {
+     "id": "rockford",
+     "name": "Rockford",
+     "db": "db/gta5rp-rockford.json",
+     "ready": true
+    },
+    {
+     "id": "strawberry",
+     "name": "Strawberry",
+     "db": "db/gta5rp-strawberry.json",
+     "ready": true
+    },
+    {
+     "id": "sunrise",
+     "name": "Sunrise",
+     "db": "db/gta5rp-sunrise.json",
+     "ready": true
+    }
+   ]
   }
  ]
 }
