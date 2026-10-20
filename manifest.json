@@ -1,8 +1,8 @@
 {
-  "version": 58,
-  "tag": "d58",
+  "version": 59,
+  "tag": "d59",
   "date": "2026-10-20",
-  "notes": "Законы GTA5RP: 13 серверов",
+  "notes": "Законы GTA5RP: исправлены названия",
   "files": [
     {
       "name": "zakonka.json",
@@ -53,8 +53,8 @@
     },
     {
       "name": "db/gta5rp-downtown.json",
-      "sha256": "293bdbd609654edf6620c440a0e4fe4725f871e451ebdf8da72de11763e4281f",
-      "size": 3405547
+      "sha256": "249d9d1db2156f6b2d03230bc0771c8dbc9d54e936012f93e2c0d1448df9940d",
+      "size": 3405659
     },
     {
       "name": "db/gta5rp-eclipse.json",
@@ -63,8 +63,8 @@
     },
     {
       "name": "db/gta5rp-insquad.json",
-      "sha256": "3d3c360c5175aff722f7197b655377763f3c36b867f4c2a019e5b44a1cd62f2a",
-      "size": 4184995
+      "sha256": "cbecb04b22e9b353790182b3c303d259cbaa4ff547df0ee6ab00d08de1a79324",
+      "size": 4185058
     },
     {
       "name": "db/gta5rp-la-puerta.json",
@@ -93,13 +93,13 @@
     },
     {
       "name": "db/gta5rp-rockford.json",
-      "sha256": "b82e798271c484b0ba1170d42b6691922290c99ca91e1b1360c983801e7df9fa",
-      "size": 5231358
+      "sha256": "518f525159d2cf3fb53540bff2944592d9651bbd105eacb31a060b188e46180c",
+      "size": 5231409
     },
     {
       "name": "db/gta5rp-strawberry.json",
-      "sha256": "cd9bb69d3cfdffbf4de726c9706e10db2dde9c1b60eb6683dd91e8f2a7992a0c",
-      "size": 3858209
+      "sha256": "3ff10e3f76ea83baa5ad6fb7e50b0ff6c8ea8f3f8d942f684a1efa49edec508a",
+      "size": 3858569
     },
     {
       "name": "db/gta5rp-sunrise.json",
