@@ -1,6 +1,6 @@
 {
-  "version": 56,
-  "tag": "d56",
+  "version": 57,
+  "tag": "d57",
   "date": "2026-10-20",
   "notes": "Обновления через защищённый путь",
   "files": [
@@ -138,81 +138,116 @@
     }
   ],
   "app": {
-    "version": "6.11",
+    "version": "6.12",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "d95eb26e0a3d3775c98adb0a4d51892dc4bcda9ecedb91906eccd70e66c49ea0",
-    "size": 43673364,
+    "sha256": "43cbd8a9ef22b0ccd89996e70067341e7f769f572934d8121da235aa6664da22",
+    "size": 43674730,
     "notes": "Обновления через защищённый путь",
     "parts": [
       {
         "name": "Pamyatka-RMRP.exe.p1",
-        "sha256": "ef61197005581f6eddbb50f8c2306754d3c06443baab34996179d324aea1ace8",
-        "size": 3145728
+        "sha256": "13d627d8542505513fbe35e5f0fd11d794fc756640dc276ba74acb8cf83c87cf",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p2",
-        "sha256": "2133eda91d9db63ed4de15c81df49d05a604f6d44a906596df28baf7193cef89",
-        "size": 3145728
+        "sha256": "f451c9cb7b944621cbc2cdb10df43bdbe51c7a086d2afb822f0b370db1568ccd",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p3",
-        "sha256": "c8d92f7a27a6656d3bed6b350b5c75173d29ea124524b3b4300df76f9ed9c459",
-        "size": 3145728
+        "sha256": "f465938f2efcd9bc8b49513f1d8bc9587c6841fd3a13cd89ff31e03666024e17",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p4",
-        "sha256": "119720f54c693d4854fa1e223115ad4197b90bdaa94ab0e07d2d64ce62a888b5",
-        "size": 3145728
+        "sha256": "36a40758491d219dc0e94c763b8a06143e0972aab91968a34e277cfb238417b8",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p5",
-        "sha256": "c9293c4760e90f6e245216cac0e471035181bb68287ebf0270c65b70a73b3d11",
-        "size": 3145728
+        "sha256": "193fdd1ba8ffe4e0cc973b261fca6935717b1cc6bf0db82890e2b438244e018c",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p6",
-        "sha256": "d2876bea9f6df9013f3edaf6dd590616a47c8347bb9cebccd7e2ab210929c682",
-        "size": 3145728
+        "sha256": "2b2bdeae79953a6754350de516e1bc05e3929e760a9b62b7ddf9686859db1af6",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p7",
-        "sha256": "fc9526c81fb39ed5c617d53b3ec07ce4def959887e0002ed7c3a54ea4ac7144f",
-        "size": 3145728
+        "sha256": "6550eca074f7268068aec2adc2ad34d6ef07da341b5ca1c28fb8c18dbffb95aa",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p8",
-        "sha256": "3162f7575ad68120c01c2f40be29a571571004392fc6705725493f00a12e2085",
-        "size": 3145728
+        "sha256": "cc2ef39a687198da4ac781c5750146eacf4b95311e6b23288338ae6b9d92aa65",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p9",
-        "sha256": "c1f031aa9d2aba88a40ce31c289addf8ef7376e3002e1bd138700d4ef28fbcbb",
-        "size": 3145728
+        "sha256": "f86ba30b462b4144c3f851690ebbbe780aa173252086ebef5b77bc2c6ac8ea2e",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p10",
-        "sha256": "535957a694658b8450f7edb86deca850f9687c60676a0dbc39af572a7d1d9f31",
-        "size": 3145728
+        "sha256": "742e341740818477b5f1549b3074ce470a414fd7ba3638a4898576bfc7db6748",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p11",
-        "sha256": "3f9da28a4b55e56d613bd24074c60eb265cfaf6606229aee75b09b7bef66e74d",
-        "size": 3145728
+        "sha256": "b88f2ee9717048ffd94ab17bdb604798b6dd80e44d4837f06105a80d46ef8cd5",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p12",
-        "sha256": "3ed67ee60a666e61eeb54b0e34c3852029fe30737380a684fda6adbd2ec02e8c",
-        "size": 3145728
+        "sha256": "cb3591f826cb008c7bad4a01b7b94e9043b43a68527d63e28343409aa40faf34",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p13",
-        "sha256": "c2296d3c242214830aeed29ec112e33b29ede9af798bd531de7974cfffec8d17",
-        "size": 3145728
+        "sha256": "dc91a6f632017c1ea59c0c39343d137e7640a741e0f16a99fbf973bc06cdae35",
+        "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p14",
-        "sha256": "780e4b5096a55ccab914996b2efe15d7a394aa43e4972ccf9704229fa91c1739",
-        "size": 2778900
+        "sha256": "545f57bbb43f570e13f295eee66f13aa7f4e3445b43cec61a83b8400dd1ba8ee",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p15",
+        "sha256": "ec6342f5ed0c467adf199e3a57769b283ac0a8cd4cd229d029d3018887a98fed",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p16",
+        "sha256": "f077be1aacf0a93ac05acf1111743f303717355c13051b8addcbc081b1f2163d",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p17",
+        "sha256": "75e50fbed5bee41788475cdf6565740b09e8b81b04a7fdd6baab2af7d3f6976a",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p18",
+        "sha256": "9d127626f94e1ebfec72b258140f92abe169f5c0e06edc37633224e28d91f200",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p19",
+        "sha256": "805cb676e1a239414232f62b21b5902b999de8506911bad4799ec4555175d062",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p20",
+        "sha256": "3a4ebf9a02256f57d189c32910160b156b646cda32f126c49c24679df284cddb",
+        "size": 2097152
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p21",
+        "sha256": "6a57aafcdf1c482c2f0ba01813397588cd95423e20a6753153a97be289a30c18",
+        "size": 1731690
       }
     ]
   }
