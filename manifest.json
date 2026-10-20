@@ -1,7 +1,8 @@
 {
-  "version": 52,
+  "version": 53,
+  "tag": "d53",
   "date": "2026-10-20",
-  "notes": "Режимы помощника: адвокат, полицейский, крайм",
+  "notes": "Обновляется сама, даже без VPN",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +21,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "a4aefdf486e2b76fc632d531c10961878ccd81266272348aa0b2c789637e9596",
-      "size": 24432
+      "sha256": "c135305e8ec31da6611c93a2b32fa9be39c325d1dd23f5956fb4cf3210af40da",
+      "size": 25129
     },
     {
       "name": "aiconfig.json",
@@ -137,10 +138,27 @@
     }
   ],
   "app": {
-    "version": "6.9",
+    "version": "6.10",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "ccccb36cd09feae048cd591dfa3805024c47fe4191072c8ae972f12cdb8ce762",
-    "size": 43637812,
-    "notes": "Режимы помощника: адвокат, полицейский, крайм"
+    "sha256": "67d85d7e36e732ba95a78f3655aefb6fbf2de4eda377a6b25243a6eb7c242e89",
+    "size": 43675488,
+    "notes": "Обновляется сама, даже без VPN",
+    "parts": [
+      {
+        "name": "Pamyatka-RMRP.exe.p1",
+        "sha256": "a5da52597662729dfefe5da6f40f009bbd3585967a810d903487c4c1c87f73b0",
+        "size": 15728640
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p2",
+        "sha256": "6a5ccdbf0e59ed608673cbfab4e8ee07e2b343448f114061eb6fcfebe727ec5e",
+        "size": 15728640
+      },
+      {
+        "name": "Pamyatka-RMRP.exe.p3",
+        "sha256": "381dfd8f3376d3ab3e4201ade8a0eb0ffa5c936c75d2191557de466f17d242cb",
+        "size": 12218208
+      }
+    ]
   }
 }
