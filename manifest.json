@@ -1,8 +1,8 @@
 {
-  "version": 62,
-  "tag": "d62",
-  "date": "2026-10-20",
-  "notes": "Нейросеть быстрее",
+  "version": 63,
+  "tag": "d63",
+  "date": "2026-10-23",
+  "notes": "6.15: ответы помощника без звёздочек — жирный текст и списки",
   "files": [
     {
       "name": "zakonka.json",
@@ -203,116 +203,116 @@
     }
   ],
   "app": {
-    "version": "6.14",
+    "version": "6.15",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "8ec5ccad7dd86f212f064e6a3d4bd2350c7ae7bd9e44fc0d0e95254f1c4f0bb3",
-    "size": 43750571,
-    "notes": "Нейросеть быстрее",
+    "sha256": "23259e40880abd5441824e874e2d70fd6dcf0b9bad8d556ab00aa5a761d915d8",
+    "size": 43782152,
+    "notes": "6.15: ответы помощника без звёздочек — жирный текст и списки",
     "parts": [
       {
         "name": "Pamyatka-RMRP.exe.p1",
-        "sha256": "e16fe02b2b7691857bf91d7f2b698c54f7235720fa8e28eeb4dddc8b6ce2785b",
+        "sha256": "ead693b6b5296d4fd78348bf87191b28f2763c46f7839db4fade36c9b2b3c676",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p2",
-        "sha256": "0bd798cd44b4f4a7106b8bf21059fca4b0a807ff25596e4b1cc9b646b0473966",
+        "sha256": "f451c9cb7b944621cbc2cdb10df43bdbe51c7a086d2afb822f0b370db1568ccd",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p3",
-        "sha256": "c2410146f2a78081b613d27cf945cdda5c99afcb501813fa89c7e0267af85b8a",
+        "sha256": "f465938f2efcd9bc8b49513f1d8bc9587c6841fd3a13cd89ff31e03666024e17",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p4",
-        "sha256": "aad078a74351046aa65ab8e957dc0f7a1fd4adf220bf14edb7c4eb0c6b08b8ef",
+        "sha256": "36a40758491d219dc0e94c763b8a06143e0972aab91968a34e277cfb238417b8",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p5",
-        "sha256": "5ec5dde44b880348dac1d9ccc0db2a6c201f570bbbd5b4fc8d12cc136af45c3f",
+        "sha256": "193fdd1ba8ffe4e0cc973b261fca6935717b1cc6bf0db82890e2b438244e018c",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p6",
-        "sha256": "58d3cffb768af3ebf2de1e4741015a1769cf4aa64a603da8396e97e88c65b700",
+        "sha256": "19c69ee4c449ee6e9dac4fa4ae92a3bbcd09652e0def290c1b1e1a3916d5cde9",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p7",
-        "sha256": "830114ef785a4b2eb01d765f0436c69015500c1fbf924382aaa1807625412a7a",
+        "sha256": "5ce8ce1954835b6782b696c185e1df3a6ff71564649c05b8c49db66bf2831c50",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p8",
-        "sha256": "80bc285add7f3e54d3247143b7f8e073b8999c70aff72f9406d7ef8e78779872",
+        "sha256": "5e802fa9d944f62058011f52aa4e0342c26951e19922ef2e03ca3a0e8d6af03d",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p9",
-        "sha256": "141d28ad8c54642ec87415c7d239829c80af5235ff0019b5b926ac1cd5437dac",
+        "sha256": "1946ecd08de289b4f44e01939bf8471d4b48d8950605e2950865cc971b765161",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p10",
-        "sha256": "0069d49d74fc437a4678edbf9733f574e04405528a1b163ed8cf3802b248f1df",
+        "sha256": "821eeed30d28208e4efff0847eb97fa3dcf8e8aafafad92300f332ed1e68ff2a",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p11",
-        "sha256": "dce0f95f91adb6995ef08081bbcfe8000e9f8af0b60629a3a3c62610e1017af2",
+        "sha256": "a6ea57b81423b10790bbba12667047cf9f46d49551987f11e4b134299a9c49f0",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p12",
-        "sha256": "4ec8dfdd43d8c1898b109e87fd9682a80d0ad1ef8d79082b47f14b853f1255f6",
+        "sha256": "32d4553000c053e1eb7853c509155505a0ec8aebac32f44c791371de855899ca",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p13",
-        "sha256": "45f403bdd2185fcdc35e43aaf75f071901c791191f430f2d51df5de80a43e04e",
+        "sha256": "5c687e31e72fa9a69eeac18ebdff257abeef6fd3a0714eefb428daad85589e8e",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p14",
-        "sha256": "104719ae64805d751f776e44e5e11e833293768a53d4729ba6896e377f5c6842",
+        "sha256": "e630f3276836ac2e6cc331924cb0a49cefaba6089209b95efe3e2384edc3132c",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p15",
-        "sha256": "65cbbce630726b0d48b20e4614fff37fb4622f82a4a524aba87ca14c74313e60",
+        "sha256": "0a01432c745c9144994c5469dc73af10c0ed45a93cd3550d94b59443b503e74e",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p16",
-        "sha256": "4b557264541200e470c3748fc7a02ae999f01fa011f75deefd27142b3b8fecaf",
+        "sha256": "13f62922a0671f12fffb3ee577b2aba6bffbb3f0f6036ef3e255f9fba53176a9",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p17",
-        "sha256": "28214d5b006e8674b03b3920ca667a1b43bd6cc59e1a3a4db9ac7ac68114b7cf",
+        "sha256": "8cc2ce2696541f5bca326e296ab1b579799cf94ab05515bf7a0059ae157388fb",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p18",
-        "sha256": "a6732610aeef6c12dde540f6ccd7881ed909873090c5dfc8bc7b70001cae144e",
+        "sha256": "4fd3df8f40c03a0b46cb34b01c80ffa9f63159e3d3505aff4554137574912f37",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p19",
-        "sha256": "4d069423293150103642b836db3369718e9b446b806af91d04eda9d59e3757fb",
+        "sha256": "4a7945f43fbf946e6f7f06a4b97807e26571ba956cdf3568c524728e326d2468",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p20",
-        "sha256": "a8774a868aa6420785cc6208564603015539cf4c9553533dfedc674b7a4b21a9",
+        "sha256": "6697d2a04667ac0e0af280e3a59392b4f9f71790ac2a35d242c2930481ce3c71",
         "size": 2097152
       },
       {
         "name": "Pamyatka-RMRP.exe.p21",
-        "sha256": "ed8488799fac2e6882343ea34179348a74acb91ec09be5f9de44c70031f3c091",
-        "size": 1807531
+        "sha256": "5e5cd1fdf346e19a06c8c199e042597046b231149b8f4465a49964af9f85aac1",
+        "size": 1839112
       }
     ]
   }
