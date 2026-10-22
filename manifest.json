@@ -1,8 +1,8 @@
 {
-  "version": 63,
-  "tag": "d63",
+  "version": 64,
+  "tag": "d64",
   "date": "2026-10-23",
-  "notes": "6.15: ответы помощника без звёздочек — жирный текст и списки",
+  "notes": "обновление данных",
   "files": [
     {
       "name": "zakonka.json",
@@ -21,8 +21,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "eaf38e29479ea37d073137ac1cfabe53e831f7a0b080b866dd413f74f76bbb46",
-      "size": 26434
+      "sha256": "a4e7c9e88961fd62a16bbbc89b0e2cf3299e17561559bc840afa901bb75fc54a",
+      "size": 26769
     },
     {
       "name": "aiconfig.json",
